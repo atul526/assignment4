@@ -1,0 +1,40 @@
+body{
+ background-color: rgb(255, 234, 140);
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.about{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    color: black;
+}
+h3,h2{
+    text-align: center;
+    color: black;
+}
+.table{
+    margin-left: auto;
+  margin-right: auto;
+
+}
+td,th{
+    color: black;
+}
+li{
+    color: black;
+}
+h4{
+    color: black;
+}
